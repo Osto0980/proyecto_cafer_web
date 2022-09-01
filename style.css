@@ -1,0 +1,43 @@
+*body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.hero {
+  background-image: url("/img/financial.jpg");
+  height: 90vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.navFondo {
+  background-color: #F85E00;
+
+}
+
+.fotoPagina {
+  height: 107vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fotoPagina2 {
+  height: 120vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.btnColor {
+  background-color: #F85E00;
+}
+
+.mainContact {
+  padding: 3rem;
+  display: flex;
+  gap: 2rem;
+}
